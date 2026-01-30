@@ -1,2 +1,7 @@
 sorry my bad i signed in your git hub account from your google account this time i am signing out your google account but i attached a file teaching you how to signout google account from the browser so please do read it thank you next time be aware ayone can misuse your account there is not much linked to this acoount so i am assuming  its not your primary account you are an mca student so be carefull with this kind of things 
-signing off a cyber security specialist and your well wisher
+
+and about your skills 
+C, Java, Python, C++, C#, DBMS, and DAA.
+I aim to become a competent software professional by learning and growing every day.
+i dont think so you will get a job with this skills i suggest your to pick a particular field like ai cyber or blockchain or anthing other tech because only knowing programming language doesnt guarantee you a job even if your are doing a job right now if you pick a field and then start learning you can get a higher payout as compared to your current job and also with ai being main stream backend and frontend jobs are very less but if you still master full sde you can get lot of benefits as saturation come soon in sde as ai is just building some ussual sites and now the programmers who are not using ai is getting higher payouts in freelancing  and got to know you are intrested in trading also as you searched for scalper in gemini i dont know much about trading so goood luck wish you happy days ahead sponushree
+signing off a bug bounty hunter , cyber security specialist , Pentester , ai/blockchain architect and your well wisher
